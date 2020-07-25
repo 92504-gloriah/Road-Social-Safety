@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Road Social Safety</string>
+    <string name="enforcerlogin">Login</string>
+
+    <string name="enterpassword">Enter Password</string>
+    <string name="password">Password</string>
+
+    <string name="username">Username</string>
+    <string name="enforcer_login">Enforcer Login</string>
+    <string name="badget_number">Username/Badget Number</string>
+    <string name="your_password" />
+    <string name="welcome">Welcome</string>
+    <string name="_123456789">123456789</string>
+    <string name="to_access_all_features_of_the_app_provided_by_code_is_all_you_need_to_login_first">To access all features of the app provided by Code Is All, You need to login first.</string>
+    <string name="email_address">Email Address</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="register">Register</string>
+</resources>
