@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:gravity="center"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.codeisall.androidloginscreen.MainActivity">
+
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="600dp"
+        android:id="@+id/textView2"
+        android:text="MAP HERE"
+        android:layout_marginTop="10dp"
+        android:textColor="#FFFFFF"
+        android:layout_marginBottom="10dp"
+        />
+
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="40dp"
+        android:id="@+id/savelocation"
+        android:text="Save Location, Add Accident Details"
+        tools:layout_editor_absoluteX="55dp"
+        tools:layout_editor_absoluteY="0dp"
+        android:background="@drawable/rounded_button"
+        tools:ignore="MissingConstraints" />
+
+
+
+</LinearLayout>

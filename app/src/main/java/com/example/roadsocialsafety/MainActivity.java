@@ -20,8 +20,8 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 System.out.println("Button Clicked");
 
-                Intent clogin = new Intent(getApplicationContext(), clogin.class);
-                startActivity(clogin);
+                Intent login = new Intent(getApplicationContext(), Enforcerlogin.class);
+                startActivity(login);
             }
         });
     }
